@@ -1,0 +1,77 @@
+.bicycleButton{
+	width: 200px;
+	height: 100px;
+	background-color: #FF9800;
+	color:white;
+	font-size: 25px;
+	font-weight: lighter;
+	transition: 0.5s;
+}
+
+.spareButton{
+	width: 200px;
+	height: 100px;
+	background-color: #E91E63;
+	color:white;
+	font-size: 25px;
+	font-weight: lighter;
+	transition: 0.5s;
+}
+
+.wearButton{
+	width: 200px;
+	height: 100px;
+	background-color: #00BCD4;
+	color:white;
+	font-size: 25px;
+	font-weight: lighter;
+	transition: 0.5s;
+}
+
+.productButton{
+	width: 200px;
+	height: 100px;
+	background-color: #CDDC39;
+	color:white;
+	font-size: 20px;
+	font-weight: lighter;
+	transition: 0.5s;
+}
+
+.productHistoryButton{
+	width: 200px;
+	height: 100px;
+	background-color: #8BC34A;
+	color:white;
+	font-size: 20px;
+	font-weight: lighter;
+	transition: 0.5s;
+}
+
+.contactSettingsButton{
+	width: 200px;
+	height: 100px;
+	background-color: #607D8B;
+	color:white;
+	font-size: 20px;
+	font-weight: lighter;
+	transition: 0.5s;
+}
+
+
+
+
+.bicycleButton:hover{
+	transition: 0.5s;
+	background-color: #00BCD4;
+}
+
+.wearButton:hover{
+	transition: 0.5s;
+	background-color: #E91E63;
+}
+
+.spareButton:hover{
+	transition: 0.5s;
+	background-color: #FF9800;
+}

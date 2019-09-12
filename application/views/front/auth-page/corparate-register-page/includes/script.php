@@ -1,0 +1,2 @@
+<script type="text/javascript" src="https://igorescobar.github.io/jQuery-Mask-Plugin/js/jquery.mask.min.js"></script>
+<script type="text/javascript" src="<?= base_url('assets/script/corparate.register.js') ?>"></script>

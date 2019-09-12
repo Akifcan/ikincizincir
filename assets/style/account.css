@@ -1,0 +1,61 @@
+.contactButton{
+	width: 300px;
+	height: 100px;
+	background-color: #673AB7;
+	color: white;
+	font-size: 1.5rem;
+	font-weight: lighter;
+	transition: 0.5s;
+	padding: 10px;
+}
+
+.securityButton{
+	width: 300px;
+	height: 100px;
+	background-color: #009688;
+	color: white;
+	font-size: 1.5rem;
+	font-weight: lighter;
+	transition: 0.5s;
+	padding: 10px;
+}
+
+.myAdvertsButton{
+	width: 300px;
+	height: 100px;
+	background-color: #00BCD4;
+	color: white;
+	font-size: 1.5rem;
+	font-weight: lighter;
+	transition: 0.5s;
+	padding: 10px;
+}
+
+
+.contactButton:hover{
+	transition: 0.5s;
+	background-color: #E91E63;
+}
+
+.securityButton:hover{
+	transition: 0.5s;
+	background-color: #FF9800;
+}
+
+.myAdvertsButton:hover{
+	transition: 0.5s;
+	background-color: #8BC34A;
+}
+
+.f-20{
+	font-size: 20px;
+	font-weight: lighter; 
+}
+
+.warning-text{
+	color: red;
+}
+
+.display-none{
+	display: none;
+}
